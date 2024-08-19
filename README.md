@@ -1,10 +1,11 @@
+
+🚀 Live Demo
+Check out the live demo of the project here.
 Live Demo : https://iphoneweb11.netlify.app
 
 iPhone Web Clone
 Welcome to the iPhone Web Clone project! This project showcases a dynamic, interactive website that emulates the sleek design and features of an iPhone interface. Built with cutting-edge web technologies, it offers a modern, immersive user experience.
 
-🚀 Live Demo
-Check out the live demo of the project here.
 
 🛠️ Technologies Used
 Frontend
